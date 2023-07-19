@@ -3,6 +3,11 @@
 Based on https://github.com/nolenroyalty/wardle / https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/
 this is a proof of concept, that you can do translations as well.
 
+## Demonstration video
+
+https://github.com/weiland/translation-address-bar/assets/1645161/33d6d05d-59e4-42b7-8e62-105e64d7a1ab
+
+
 ## Prerequisites
 
 This is a quick demo implemented using Deno, so you should have Deno installed.
